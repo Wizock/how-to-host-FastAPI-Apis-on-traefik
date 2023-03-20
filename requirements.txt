@@ -1,0 +1,8 @@
+colorama==0.4.6
+cryptography==39.0.1
+fastapi==0.94.1
+python-multipart
+fastapi_utils
+starlette==0.26.1
+uvicorn==0.20.0
+itsdangerous==2.1.2
